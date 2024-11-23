@@ -1,0 +1,32 @@
+[
+  {
+    "Username": "user1",
+    "Password": "password123",
+    "Accounts": [
+      {
+        "Name": "User1 Checking",
+        "AccountNumber": "1234567890",
+        "Balance": 1000.50,
+        "CreatedDate": "2024-01-01T00:00:00"
+      },
+      {
+        "Name": "User1 Savings",
+        "AccountNumber": "9876543210",
+        "Balance": 5000.00,
+        "CreatedDate": "2024-02-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "Username": "user2",
+    "Password": "password456",
+    "Accounts": [
+      {
+        "Name": "User2 Checking",
+        "AccountNumber": "1234509876",
+        "Balance": 2500.00,
+        "CreatedDate": "2024-01-15T00:00:00"
+      }
+    ]
+  }
+]
